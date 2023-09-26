@@ -1,2 +1,2 @@
-# sukon-change-log
-SUKON CHANGE LOG - UPDATE - GUIDE
+# Sukon guide
+SUKON CHANGE LOG - GUIDE
