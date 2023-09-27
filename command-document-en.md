@@ -6,11 +6,13 @@
   SLASH COMMAND (/)
 ```
 
+
 | Anime | Option         | Description                |
 | :-------- | :------- | :------------------------- |
 | `hentai` | `<sub reddit>` | watch hentai or other nsfw content through subreddit, if you don't know what to do type **help** in the "sub reddit" box like ZeroTwo bot |
 | `neko` | `<>` | Generate neko image |
 | `search_waifu` | `<text> <gif>` | Find anime waifu art (70% accuracy rate 💀💀💀) |
+
 
 | Config | Option     | Description                       |
 | :-------- | :------- | :-------------------------------- |
@@ -59,6 +61,39 @@
 | `loop` | `<loopmode>` | Loop queue or loop music |
 | `lyrics` | `<song>` | Maintenance this command |
 | `nowplaying` | `<>` | Show the current playing song |
+| `pause` | `<>` | Pause music |
+| `play` | `<input>` | Play song from any support source |
+| `queue` | `<> / <page>` | Show all song in queue, you may not need to type page number |
+| `remove` | `<number>` | Removes a song from the queue |
+| `resume` | `<>` | Resume music |
+| `search` | `<input>` | Search any song on youtube |
+| `seek` | `<time>` | Seek the currently playing song. **<10s - 10m - 10h / HH:mm:ss - mm:ss - mm ss>** |
+| `shuffle` | `<>` | Shuffle the queue |
+| `skip` | `<>` | Skip the song currently playing |
+| `skipto` | `<number>` | Skip to a specific song |
+| `stop` | `<>` | Stop the music |
+| `volume` | `<number>` | Change volume |
+
+| Playlist | Option     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `create` | `<name>` | Create a playlist for you |
+| `delete` | `<name>` | Delete your saved playlist |
+| `info` | `<name>` | Get information about your saved playlist |
+| `list` | `<>` | List all playlist you have |
+| `load` | `<name>` | Load the saved playlist |
+| `removetrack` | `<name> <number>` | Remove a track from playlist |
+| `savecurrent` | `<name>` | Add the current playing to song your saved playlist |
+| `savequeue` | `<name>` | Save the current queue in your saved playlist |
+
+| User | Option     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `afk` | `<reason>` | Set your afk |
+| `google` | `<search>` | Google search |
+| `ip-location` | `<ip>` | Get ip location :) with 60% accuracy rate 💀 i think |
+| `issue` | `<issue_image>` | Sukon Report Center !!! Report any issue/problem in Sukon |
+| `tts` | `<text> <language>` | Text to speak |
+| `ytmp3` | `<url>` | Download mp3 song in youtube |
+
 #### add(num1, num2)
 
 Takes two numbers and returns the sum.
