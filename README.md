@@ -1,2 +1,0 @@
-# Sukon guide
-SUKON CHANGE LOG - GUIDE
