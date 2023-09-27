@@ -10,7 +10,7 @@
 | :-------- | :------- | :------------------------- |
 | `hentai` | `<sub reddit>` | watch hentai or other nsfw content through subreddit, if you don't know what to do type **help** in the "sub reddit" box like ZeroTwo bot |
 | `neko` | `<>` | Generate neko image |
-| `search_waifu` | `<text> <gif>` | Generate neko image |
+| `search_waifu` | `<text> <gif>` | Find anime waifu art (70% accuracy rate 💀💀💀) |
 
 | Config | Option     | Description                       |
 | :-------- | :------- | :-------------------------------- |
@@ -33,9 +33,12 @@
 | `yt-search` | `<video>` | Find videos on youtube |
 | `ytchannel-info` | `<url>` | Display youtube channel information, you can enter channel name in "url" option |
 
-| Information | Option     | Description                       |
+| Minigames | Option     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `count` | `<channel>` | Setup count channel :LLL |
+
+| Moderator | Option     | Description                       |
+| :-------- | :------- | :-------------------------------- |
 | `autosend` | `<trigger> <reply> <action>` | Autoresponder like Mimu i think |
 | `ban` | `<user> <reason>` | Ban a member in your server|
 | `banid` | `<id>` | Ban ID user|
