@@ -69,6 +69,7 @@
 | `search` | `<input>` | Search any song on youtube |
 | `seek` | `<time>` | Seek the currently playing song. **<10s - 10m - 10h / HH:mm:ss - mm:ss - mm ss>** |
 | `shuffle` | `<>` | Shuffle the queue |
+| `filters` | `<filter>` | Set sukon sound filter |
 | `skip` | `<>` | Skip the song currently playing |
 | `skipto` | `<number>` | Skip to a specific song |
 | `stop` | `<>` | Stop the music |
@@ -94,7 +95,12 @@
 | `tts` | `<text> <language>` | Text to speak |
 | `ytmp3` | `<url>` | Download mp3 song in youtube |
 
-#### add(num1, num2)
+```http
+  CONTEXT MENU (/)
+```
 
-Takes two numbers and returns the sum.
-
+| Menu | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `google` | `Message` | Get text in any message you want and search it on Google |
+| `play` | `Message` | Get music name in message (if any) and play it, [Watch the demo to understand]() |
+| `transalte` | `Message` | Get text in any message you want and translate it according to your discord interface language [Watch the demo if you don't understand]() |
