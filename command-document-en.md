@@ -104,3 +104,4 @@
 | `google` | `Message` | Get text in any message you want and search it on Google |
 | `play` | `Message` | Get music name in message (if any) and play it, [Watch the demo to understand]() |
 | `transalte` | `Message` | Get text in any message you want and translate it according to your discord interface language [Watch the demo if you don't understand]() |
+| `wiki` | `Message` | Get text in any message you want and search it on Wikipedia API |
