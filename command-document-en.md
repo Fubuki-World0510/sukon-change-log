@@ -1,6 +1,6 @@
 
 
-#### COMMAND DOCUMENT
+## COMMAND DOCUMENT
 
 ```http
   SLASH COMMAND (/)
@@ -105,3 +105,11 @@
 | `play` | `Message` | Get music name in message (if any) and play it, [Watch the demo to understand]() |
 | `transalte` | `Message` | Get text in any message you want and translate it according to your discord interface language [Watch the demo if you don't understand]() |
 | `wiki` | `Message` | Get text in any message you want and search it on Wikipedia API |
+
+## WEBSITE DOCUMENT
+[Sukon Web 1 - player](http://sukondiscord.ddns.net:2323/) (You can access my panel by removing those ports but you can't turn off Sukon, true think, Don't mess with it, I don't want anyone to get banned from the web service)
+
+| Option | Type     | Description               | Status |
+| :-------- | :------- | :--------------------- | :-----------------|
+| `Music` | `User` | Play music, add song in queue, basic web player (BETA), `Remember, it can only play music and cannot perform any operations` | ✅ |
+| `Youtube Notification System` | `Moderator` | Setup a new video notification on youtube using rss feed | ❌ |
