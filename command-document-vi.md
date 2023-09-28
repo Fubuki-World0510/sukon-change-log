@@ -11,7 +11,7 @@
 | :-------- | :------- | :------------------------- |
 | `hentai` | `<sub reddit>` | Xem hentai, .... sử dụng subreddit, sử dụng **/help** nếu bạn không biết phải làm gì, nó như ZeroTwo bot ấy mà |
 | `neko` | `<>` | Random ảnh mèo anime |
-| `search_waifu` | `<text> <gif>` | Tìm waifu art ( Độ chính xác 70% 💀💀💀) |
+| `search_waifu` | `<text> <gif>` | Tìm waifu art ( Độ chính xác 40% 💀💀💀) |
 
 
 | Config | Option     | Mô tả                       |
