@@ -11,7 +11,7 @@
 | :-------- | :------- | :------------------------- |
 | `hentai` | `<sub reddit>` | watch hentai or other nsfw content through subreddit, if you don't know what to do type **help** in the "sub reddit" box like ZeroTwo bot |
 | `neko` | `<>` | Generate neko image |
-| `search_waifu` | `<text> <gif>` | Find anime waifu art (70% accuracy rate 💀💀💀) |
+| `search_waifu` | `<text> <gif>` | Find anime waifu art (40% accuracy rate 💀💀💀) |
 
 
 | Config | Option     | Description                       |
