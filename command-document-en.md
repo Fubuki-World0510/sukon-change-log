@@ -96,7 +96,7 @@
 | `ytmp3` | `<url>` | Download mp3 song in youtube |
 
 ```http
-  CONTEXT MENU (/)
+  CONTEXT MENU
 ```
 
 | Menu | Type     | Description                       |
