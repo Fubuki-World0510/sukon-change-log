@@ -102,7 +102,7 @@
 | Menu | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `google` | `Message` | Get text in any message you want and search it on Google |
-| `play` | `Message` | Get music name in message (if any) and play it, [and apply the automatic music detection feature with prompts in chats, Watch the demo to understand]() |
+| `play` | `Message` | Get music name in message (if any) and play it, [and apply the automatic music detection feature with prompts in chats, Watch the demo to understand](https://github.com/Fubuki-World0510/sukon-change-log/blob/main/demo-music-detect.md) |
 | `translate` | `Message` | Get text in any message you want and translate it according to your discord interface language [Watch the demo if you don't understand]() |
 | `wiki` | `Message` | Get text in any message you want and search it on Wikipedia API |
 
