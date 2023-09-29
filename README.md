@@ -27,3 +27,4 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 | `Fix` | Autocomplete Spam | `Ready` |
 | `Code` | 98% Translated (Đã dịch 98% Sukon) | `Beta` |
 | `Unsupport` | Prefix command (Ngừng hỗ trợ prefix command) | `Removed` |
+| `Maintenance` | Lyric command | `Not ready to use` |
