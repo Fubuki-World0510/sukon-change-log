@@ -107,7 +107,7 @@
 | `wiki` | `Message` | Lấy tin nhắn của bạn/người khác và tra wiki, hãy lấy tin nhắn có keyword |
 
 ## WEBSITE DOCUMENT
-[Sukon Web 1 - player](http://sukondiscord.ddns.net:2323/) (Bạn có thể xóa port trong url kia và truy cập panel của Sukon nhưng bạn không thể tắt chúng, đừng để tôi phải thấy ai đó bị ban khỏi dịch vụ web nếu bạn có nghịch ngợm trong cái web của tôi)
+[Sukon Web 1 - player](http://sukondiscord.ddns.net:8000/) (Bạn có thể xóa port trong url kia và truy cập panel của Sukon nhưng bạn không thể tắt chúng, đừng để tôi phải thấy ai đó bị ban khỏi dịch vụ web nếu bạn có nghịch ngợm trong cái web của tôi)
 
 | Option | Loại     | Mô tả               | Trạng thái |
 | :-------- | :------- | :--------------------- | :-----------------|
