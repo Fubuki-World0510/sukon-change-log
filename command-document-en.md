@@ -107,7 +107,7 @@
 | `wiki` | `Message` | Get text in any message you want and search it on Wikipedia API |
 
 ## WEBSITE DOCUMENT
-[Sukon Web 1 - player](http://sukondiscord.ddns.net:2323/) (You can access my panel by removing those ports but you can't turn off Sukon, true think, Don't mess with it, I don't want anyone to get banned from the web service)
+[Sukon Web 1 - player](http://sukondiscord.ddns.net:8000/) (You can access my panel by removing those ports but you can't turn off Sukon, true think, Don't mess with it, I don't want anyone to get banned from the web service)
 
 | Option | Type     | Description               | Status |
 | :-------- | :------- | :--------------------- | :-----------------|
