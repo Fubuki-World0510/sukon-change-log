@@ -8,10 +8,10 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 
 ### BETTER FEATURE (document update - soon)
 - **All feature**
-[English Version]()
+[English Version]() |
 [Vietnamese Version]()
 - **Better feature document**
-[English Version]()
+[English Version]() | 
 [Vietnamese Version]()
 ### UPDATE SUKON
 ✅ `Sukon` **`Pre-stable version 4.5.0`**
