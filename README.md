@@ -4,9 +4,15 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 ### COMMAND DOCUMENTS
 [Sukon Command Documents - English Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/main/command-document-en.md)
 
-[Tài liệu lệnh của Sukon - VietNam Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/main/command-document-vi.md)
+[Tài liệu lệnh của Sukon - Vietnamese Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/main/command-document-vi.md)
 
 ### BETTER FEATURE (document update - soon)
+- **All feature**
+[English Version]()
+[Vietnamese Version]()
+- **Better feature document**
+[English Version]()
+[Vietnamese Version]()
 ### UPDATE SUKON
 ✅ `Sukon` **`Pre-stable version 4.5.0`**
 
