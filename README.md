@@ -22,4 +22,4 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 | :-------- | :-------------------------------- | :-------- |
 | `Add` | NextJS dashboard, Database Attack | `Not ready` |
 | `Add` | Thêm 1 số nút bấm trên dashboard nhạc | `Beta` |
-| `Fix` | Fix queue, load playlist, google preview(context menu) | `Ready` |
+| `Fix` | Fix queue, load playlist, google preview(context menu), Ban id command | `Ready` |
