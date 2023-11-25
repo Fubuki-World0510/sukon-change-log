@@ -113,3 +113,11 @@
 | :-------- | :------- | :--------------------- | :-----------------|
 | `Music` | `User` | Play music, add song in queue, basic web player (BETA), `Remember, it can only play music and cannot perform any operations` | ✅ |
 | `Youtube Notification System` | `Moderator` | Setup a new video notification on youtube using rss feed | ❌ |
+
+### Web Player
+- If you see on embed they have webplayer true (enabled/yes) or false (disabled/no), then that is the web player request feature
+| Condition | Request from     | Description               | Web player status |
+| :-------- | :------- | :--------------------- | :-----------------|
+| `1` | `Sukon web` | If someone on sukon web requests a song on there | true |
+| `2` | `join command` | If there is 1 person use the command `/join` and request a song from that command | true | 
+| `2` | `play command` | If there is 1 person just use `/play` command and request music from it | false |
