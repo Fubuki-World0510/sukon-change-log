@@ -113,3 +113,12 @@
 | :-------- | :------- | :--------------------- | :-----------------|
 | `Music` | `User` | Chơi nhạc, thêm nhạc vào hàng chờ (THỬ NGHIỆM), `nên nhớ, nó chỉ chơi nhạc và không thể làm gì khác như dừng nhạc, .. tôi sẽ update nó sau` | ✅ |
 | `Youtube Notification System` | `Moderator` | Setup 1 new video notification trên youtube | ❌ |
+
+### Web Player
+- Nếu bạn thấy trên embed chúng có webplayer true (bật/có) hoặc false (tắt/không), thì đó là tính năng web player request
+- 
+| Điều kiện | Yêu cầu từ     | Mô tả               | Web player status |
+| :-------- | :------- | :--------------------- | :-----------------|
+| `1` | `Sukon web` | Nếu có 1 người trên sukon web yêu cầu 1 bài hát trên đó | true |
+| `2` | `Lệnh join` | Nếu có 1 người sử dụng lệnh `/join` và yêu cầu 1 bài hát từ lệnh đó | true | 
+| `2` | `lệnh play` | Nếu có 1 người chỉ sử dụng lệnh `/play` và yêu cầu nhạc từ nó | false |
