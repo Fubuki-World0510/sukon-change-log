@@ -116,6 +116,7 @@
 
 ### Web Player
 - If you see on embed they have webplayer true (enabled/yes) or false (disabled/no), then that is the web player request feature
+
 | Condition | Request from     | Description               | Web player status |
 | :-------- | :------- | :--------------------- | :-----------------|
 | `1` | `Sukon web` | If someone on sukon web requests a song on there | true |
