@@ -14,12 +14,12 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 [English Version]() | 
 [Vietnamese Version]()
 ### UPDATE SUKON
-✅ `Sukon` **`Pre-stable version 4.5.5`**
+✅ `Sukon` **`Pre-stable version 5.0`**
 
 - What new in this version? (Có gì mới?)
 
 | Changes ( Các thay đổi)  | Description of changes (Mô tả thay đổi) |  Status (Trạng thái)   |
 | :-------- | :-------------------------------- | :-------- |
-| `Add` | NextJS dashboard, Database Attack | `Not ready` |
-| `Add` | Thêm 1 số nút bấm trên dashboard nhạc | `Beta` |
-| `Fix` | Fix queue, load playlist, google preview(context menu), Ban id command | `Ready` |
+| `Change` | Thay đổi JS sang TS | `Ready` |
+| `Sync` | Đồng bộ code sukonTS với dự án sukonJS | `Beta` |
+| `Done` | Sukon music đã hoàn thành | `Ready` |
