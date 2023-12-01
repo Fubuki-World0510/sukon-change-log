@@ -1,7 +1,12 @@
 
 
-## COMMAND DOCUMENT
+# COMMAND DOCUMENT
 
+### Thông báo:
+
+document này đang đồng bộ sẵn với sukonJS, trong quá trình này sukonTS chưa được đồng bộ, nhưng toàn bộ lệnh đều nằm ở đây, bạn có thể tìm thấy chúng
+
+-----------------------------------------------
 ```http
   SLASH COMMAND (/)
 ```
