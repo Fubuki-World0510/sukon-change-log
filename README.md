@@ -23,3 +23,4 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 | `Change` | Thay đổi JS sang TS | `Ready` |
 | `Sync` | Đồng bộ code sukonTS với dự án sukonJS | `Beta` |
 | `Done` | Sukon music đã hoàn thành | `Ready` |
+| `Add` | Kích hoạt lại command prefix | `Beta ⚠` |
