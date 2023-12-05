@@ -1,6 +1,9 @@
 
 
-## COMMAND DOCUMENT
+# COMMAND DOCUMENT
+### Notification:
+
+This document is already synchronized with sukonJS, during this process sukonTS is not synchronized, but all the commands are here, you can find them
 
 ```http
   SLASH COMMAND (/)
