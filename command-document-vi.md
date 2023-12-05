@@ -121,6 +121,7 @@ document này đang đồng bộ sẵn với sukonJS, trong quá trình này suk
 
 ### Web Player
 - Nếu bạn thấy trên embed chúng có webplayer true (bật/có) hoặc false (tắt/không), thì đó là tính năng web player request
+
 | Điều kiện | Yêu cầu từ     | Mô tả               | Web player status |
 | :-------- | :------- | :--------------------- | :-----------------|
 | `1` | `Sukon web` | Nếu có 1 người trên sukon web yêu cầu 1 bài hát trên đó | true |
