@@ -112,12 +112,8 @@ document này đang đồng bộ sẵn với sukonJS, trong quá trình này suk
 | `wiki` | `Message` | Lấy tin nhắn của bạn/người khác và tra wiki, hãy lấy tin nhắn có keyword |
 
 ## WEBSITE DOCUMENT
-[Sukon Web 1 - player](http://sukondiscord.ddns.net:8000/) (Bạn có thể xóa port trong url kia và truy cập panel của Sukon nhưng bạn không thể tắt chúng, đừng để tôi phải thấy ai đó bị ban khỏi dịch vụ web nếu bạn có nghịch ngợm trong cái web của tôi)
 
-| Option | Loại     | Mô tả               | Trạng thái |
-| :-------- | :------- | :--------------------- | :-----------------|
-| `Music` | `User` | Chơi nhạc, thêm nhạc vào hàng chờ (THỬ NGHIỆM), `nên nhớ, nó chỉ chơi nhạc và không thể làm gì khác như dừng nhạc, .. tôi sẽ update nó sau` | ✅ |
-| `Youtube Notification System` | `Moderator` | Setup 1 new video notification trên youtube | ❌ |
+Nothing: Sukon Dashboard đang trong làm việc
 
 ### Web Player
 - Nếu bạn thấy trên embed chúng có webplayer true (bật/có) hoặc false (tắt/không), thì đó là tính năng web player request
