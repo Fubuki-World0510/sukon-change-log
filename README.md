@@ -2,9 +2,9 @@
 SUKON CHANGE LOG - UPDATE - GUIDE
 
 ### COMMAND DOCUMENTS
-[Sukon Command Documents - English Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/main/command-document-en.md)
+[Sukon Command Documents - English Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/sukon-5.5.0-beta/command-document-en.md)
 
-[Tài liệu lệnh của Sukon - Vietnamese Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/main/command-document-vi.md)
+[Tài liệu lệnh của Sukon - Vietnamese Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/sukon-5.5.0-beta/command-document-vi.md)
 
 ### BETTER FEATURE (document update - soon)
 - **All feature**
