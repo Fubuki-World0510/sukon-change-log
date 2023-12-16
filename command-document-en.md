@@ -110,13 +110,8 @@ This document is already synchronized with sukonJS, during this process sukonTS 
 | `wiki` | `Message` | Get text in any message you want and search it on Wikipedia API |
 
 ## WEBSITE DOCUMENT
-[Sukon Web 1 - player](http://sukondiscord.ddns.net:8000/) (You can access my panel by removing those ports but you can't turn off Sukon, true think, Don't mess with it, I don't want anyone to get banned from the web service)
 
-| Option | Type     | Description               | Status |
-| :-------- | :------- | :--------------------- | :-----------------|
-| `Music` | `User` | Play music, add song in queue, basic web player (BETA), `Remember, it can only play music and cannot perform any operations` | ✅ |
-| `Youtube Notification System` | `Moderator` | Setup a new video notification on youtube using rss feed | ❌ |
-
+Nothing: Sukon dashboard inprogress ⚠
 ### Web Player
 - If you see on embed they have webplayer true (enabled/yes) or false (disabled/no), then that is the web player request feature
 
