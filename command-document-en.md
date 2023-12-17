@@ -13,16 +13,6 @@ This document is already synchronized with sukonJS, during this process sukonTS 
 | Anime | Option         | Description                |
 | :-------- | :------- | :------------------------- |
 | `hentai` | `<sub reddit>` | watch hentai or other nsfw content through subreddit, if you don't know what to do type **help** in the "sub reddit" box like ZeroTwo bot |
-| `neko` | `<>` | Generate neko image |
-| `search_waifu` | `<text> <gif>` | Find anime waifu art (40% accuracy rate 💀💀💀) |
-
-
-| Config | Option     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `247`      | `<>` | You just need to type the command and sukon will automatically sit in voice 24/7. Type the command again to turn off that mode. |
-| `language` | `<select>` | change your sukon language, supported languages: vi/en |
-| `setting` | `<command>` | Enter command in "option" to get the settings of that command |
-| `youtube-notify` | `<action> <ytchannel> <notifychannel> <help> <message> <role>` | Set up a new YouTube video notification system - ytchannel = [ID youtube channel](https://github.com/Fubuki-World0510/sukon-change-log/blob/main/how-to-get-youtube-channel-id.md) |
 
 | Information | Option     | Description                       |
 | :-------- | :------- | :-------------------------------- |
@@ -50,6 +40,9 @@ This document is already synchronized with sukonJS, during this process sukonTS 
 | `bocchi` | `<user> <time> <reason>` | Timeout user = mute |
 | `kick` | `<user> <reason>` | Kick a user in your server |
 | `nuke` | `<>` | Destroy your channel and BOOM!!! 💥 |
+| `language` | `<select>` | change your sukon language, supported languages: vi/en |
+| `setting` | `<command>` | Enter command in "option" to get the settings of that command |
+| `youtube-notify` | `<action> <ytchannel> <notifychannel> <help> <message> <role>` | Set up a new YouTube video notification system |
 | `say` | `<text> <have_user_tag>` | say something |
 | `snipe` | `<>` | Snipe any last delete message |
 | `unban` | `<userid>` | Unban a user in your server |
