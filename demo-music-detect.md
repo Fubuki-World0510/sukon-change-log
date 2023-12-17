@@ -1,5 +1,5 @@
-## DEMO MUSIC DETECTION IN CONTEXT MENU
-
+# DEMO MUSIC DETECTION IN CONTEXT MENU
+## UNSUPPORT THIS FEATURE ✖️
 
 If you want someone to listen to the music you want to share and include them in your message, follow the prompt:
 
