@@ -15,16 +15,6 @@ document này đang đồng bộ sẵn với sukonJS, trong quá trình này suk
 | Anime | Option         | Mô tả                |
 | :-------- | :------- | :------------------------- |
 | `hentai` | `<sub reddit>` | Xem hentai, .... sử dụng subreddit, sử dụng **/help** nếu bạn không biết phải làm gì, nó như ZeroTwo bot ấy mà |
-| `neko` | `<>` | Random ảnh mèo anime |
-| `search_waifu` | `<text> <gif>` | Tìm waifu art ( Độ chính xác 40% 💀💀💀) |
-
-
-| Config | Option     | Mô tả                       |
-| :-------- | :------- | :-------------------------------- |
-| `247`      | `<>` | Bạn chỉ cần enter lệnh và Sukon sẽ treo voice 24/7 không rời, gõ lại lệnh để tắt nó |
-| `language` | `<select>` | Thay đổi ngôn ngữ, ngôn ngữ hỗ trợ: vi/en |
-| `setting` | `<command>` | Gõ tên lệnh trong option "command" để lấy thông tin lệnh và setting nó |
-| `youtube-notify` | `<action> <ytchannel> <notifychannel> <help> <message> <role>` | Setup 1 hệ thống thông báo video mới từ youtube - ytchannel = [ID youtube channel](https://github.com/Fubuki-World0510/sukon-change-log/blob/main/how-to-get-youtube-channel-id.md) |
 
 | Information | Option     | Mô tả                       |
 | :-------- | :------- | :-------------------------------- |
@@ -50,6 +40,9 @@ document này đang đồng bộ sẵn với sukonJS, trong quá trình này suk
 | `ban` | `<user> <reason>` | Ban mấy em láo nháo khỏi máy chủ|
 | `banid` | `<id>` | Vẫn là ban nhưng bằng ID, tôi quên không biết nó có hiệu quả không |
 | `bocchi` | `<user> <time> <reason>` | Timeout người dùng = mute |
+| `language` | `<select>` | Thay đổi ngôn ngữ, ngôn ngữ hỗ trợ: vi/en |
+| `youtube-notify` | `<action> <ytchannel> <notifychannel> <help> <message> <role>` | Setup 1 hệ thống thông báo video mới từ youtube 
+| `setting` | `<command>` | Gõ tên lệnh trong option "command" để lấy thông tin lệnh và setting nó |
 | `kick` | `<user> <reason>` | Đá mấy em láo nháo khỏi máy chủ |
 | `nuke` | `<>` | Kích hoạt 1 quả bom nổ chậm trên kênh của bạn!!! 💥 |
 | `say` | `<text> <have_user_tag>` | Nhờ bot nói gì đó |
