@@ -28,3 +28,5 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 | `Fix` | Sukon music: Sửa lại playlist và skipto (reporter Iamsad_VN), sửa lại trạng thái ping trong queue list | `Ready` |
 | `Change` | Thay đổi hiển thị của youtube notification default là embed, nếu custom message sẽ trở thành message | `Ready` |
 | `Add` | Sukon Dashboard | `Inprogress ⚠` |
+
+**Small updates will be updated on [Nam Database's server](https://discord.gg/4avukvUBFM)**
