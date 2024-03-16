@@ -19,27 +19,22 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 
 ### UPDATE SUKON
 
-✅ `Sukon` **`Pre-stable version 6.0 and 6.0.2-patch`**
+✅ `Sukon` **`Pre-stable version 6.3.2`**
 
 - What new in this version? (Có gì mới?)
 
-| Changes ( Các thay đổi) | Description of changes (Mô tả thay đổi)                     | Status (Trạng thái)       |
-| :---------------------- | :---------------------------------------------------------- | :------------------------ |
-| `Turn off`              | Sukon Endpoint menu, Kon Kon Security, Sukon Fast           | `Ready`                   |
-| `Sync`                  | Sync sukonTS code to sukonJS                                | `70% Sync prefix command` |
-| `Add`                   | Add avatar command                                          | `Ready`                   |
-| `Add`                   | Sukon Dashboard                                             | `Inprogress ⚠`            |
-| `Building`              | Command prefix                                              | `Inprogress ⚠`            |
-| `ReBuild`               | Music control, add advanced button, queue in for            | `Ready`                   |
-| `Optimization`          | Optimization playlist information with Redis                | `Ready`                   |
-| `Limit`                 | Song limit in playlist - 50 up to 180 songs                 | `Ready`                   |
-| `Fixed`                 | Playlist cannot be loaded, Queue stuck, auto destroy        | `Ready`                   |
-| `Fixed`                 | Auto responder -> Regex error, Fix interaction error        | `Ready`                   |
-| `Fixed`                 | Translate ctx is not responding                             | `Ready`                   |
-| `Fixed`                 | Bug reporter did not respond, Loop is not responding        | `Ready`                   |
-| `Fixed`                 | Youtube notification                                        | `Ready`                   |
-| `Feature`               | Auto scan playlist to reduct, add autocomplete for playlist | `Ready`                   |
-| `Feature`               | Anti duplicate song in playlist                             | `Ready`                   |
-| `Add`                   | Backup command for moderator                                | `Inprogress ⚠`            |
+| Changes ( Các thay đổi) | Description of changes (Mô tả thay đổi)                                                                                                                                                      | Status (Trạng thái) |
+| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ |
+| `Update`                | Sukon run both Sqlite and MongoDB Database                                                                                                                                                   | `Ready`             |
+| `Fixed`                 | Load command underfined                                                                                                                                                                      | `Ready`             |
+| `Feature`               | "fast add" feature, add 200 song to queue in 5 sec (⚠ Non-youtube songs will be pushed to play first)                                                                                        | `Ready`             |
+| `Feature/load`          | Add "manual", Sukon does not use "fast add" but adds it manually, enabling sequential playback for the playlist.                                                                             | `Ready`             |
+| `Update`                | Update backup command                                                                                                                                                                        | `Ready`             |
+| `Optimization`          | Optimization storage                                                                                                                                                                         | `Ready`             |
+| `ReConfig`              | Change redis home server to redis server                                                                                                                                                     | `Ready`             |
+| `Limit`                 | Song limit in playlist - 180 up to 200 songs                                                                                                                                                 | `Ready`             |
+| `Fixed`                 | Fixed AutoChat regex spam                                                                                                                                                                    | `Ready`             |
+| `Change`                | The "stop" command will no longer disconnect Sukon, instead if everyone is not in voice then sukon will automatically exit                                                                   | `Ready`             |
+| `Add`                   | Add "Still fast track" in "play" command, You can add multiple songs at the same time by typing one song out and then going down the line to type another song (type ":add" in input option) | `Ready`             |
 
 **Small updates will be updated on [Nam Database's server](https://discord.gg/4avukvUBFM)**
