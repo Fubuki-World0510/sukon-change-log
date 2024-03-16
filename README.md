@@ -23,18 +23,23 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 
 - What new in this version? (Có gì mới?)
 
-| Changes ( Các thay đổi) | Description of changes (Mô tả thay đổi)              | Status (Trạng thái)       |
-| :---------------------- | :--------------------------------------------------- | :------------------------ |
-| `Turn off`              | Sukon Endpoint menu, Kon Kon Security, Sukon Fast    | `Ready`                   |
-| `Sync`                  | Sync sukonTS code to sukonJS                         | `70% Sync prefix command` |
-| `Add`                   | Add avatar command                                   | `Ready`                   |
-| `Building`              | Command prefix                                       | `Inprogress ⚠`            |
-| `Optimization`          | Optimization playlist information with Redis         | `Ready`                   |
-| `Limit`                 | Song limit in playlist - 50 up to 180 songs          | `Ready`                   |
-| `Fixed`                 | Playlist cannot be loaded, Queue stuck, auto destroy | `Ready`                   |
-| `Fixed`                 | Auto responder -> Regex error, Fix interaction error | `Ready`                   |
-| `Fixed`                 | Translate ctx is not responding                      | `Ready`                   |
-| `Fixed`                 | Bug reporter did not respond, Loop is not responding | `Ready`                   |
-| `Add`                   | Sukon Dashboard                                      | `Inprogress ⚠`            |
+| Changes ( Các thay đổi) | Description of changes (Mô tả thay đổi)                     | Status (Trạng thái)       |
+| :---------------------- | :---------------------------------------------------------- | :------------------------ |
+| `Turn off`              | Sukon Endpoint menu, Kon Kon Security, Sukon Fast           | `Ready`                   |
+| `Sync`                  | Sync sukonTS code to sukonJS                                | `70% Sync prefix command` |
+| `Add`                   | Add avatar command                                          | `Ready`                   |
+| `Add`                   | Sukon Dashboard                                             | `Inprogress ⚠`            |
+| `Building`              | Command prefix                                              | `Inprogress ⚠`            |
+| `ReBuild`               | Music control, add advanced button, queue in for            | `Ready`                   |
+| `Optimization`          | Optimization playlist information with Redis                | `Ready`                   |
+| `Limit`                 | Song limit in playlist - 50 up to 180 songs                 | `Ready`                   |
+| `Fixed`                 | Playlist cannot be loaded, Queue stuck, auto destroy        | `Ready`                   |
+| `Fixed`                 | Auto responder -> Regex error, Fix interaction error        | `Ready`                   |
+| `Fixed`                 | Translate ctx is not responding                             | `Ready`                   |
+| `Fixed`                 | Bug reporter did not respond, Loop is not responding        | `Ready`                   |
+| `Fixed`                 | Youtube notification                                        | `Ready`                   |
+| `Feature`               | Auto scan playlist to reduct, add autocomplete for playlist | `Ready`                   |
+| `Feature`               | Anti duplicate song in playlist                             | `Ready`                   |
+| `Add`                   | Backup command for moderator                                | `Inprogress ⚠`            |
 
 **Small updates will be updated on [Nam Database's server](https://discord.gg/4avukvUBFM)**
