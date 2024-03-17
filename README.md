@@ -36,5 +36,6 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 | `Fixed`                 | Fixed AutoChat regex spam                                                                                                                                                                    | `Ready`             |
 | `Change`                | The "stop" command will no longer disconnect Sukon, instead if everyone is not in voice then sukon will automatically exit                                                                   | `Ready`             |
 | `Add`                   | Add "Still fast track" in "play" command, You can add multiple songs at the same time by typing one song out and then going down the line to type another song (type ":add" in input option) | `Ready`             |
+| `Fixed`                 | Fixed Sukon UBS -> Change JSON to Map                                                                                                                                                                    | `Ready`             |
 
 **Small updates will be updated on [Nam Database's server](https://discord.gg/4avukvUBFM)**
