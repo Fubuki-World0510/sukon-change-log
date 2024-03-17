@@ -4,6 +4,8 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 
 ### COMMAND DOCUMENTS
 
+[Know Sukon](https://namab.click/#about)
+
 [Sukon Command Documents - English Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/sukon-5.5.0-beta/command-document-en.md)
 
 [Tài liệu lệnh của Sukon - Vietnamese Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/sukon-5.5.0-beta/command-document-vi.md)
