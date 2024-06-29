@@ -6,38 +6,38 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 
 [Know Sukon](https://namab.click/#about)
 
-[Sukon Command Documents - English Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/sukon-5.5.0-beta/command-document-en.md)
+[Sukon Command Documents - English Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/sukon-6.4.0-Update-Patch/command-document-en.md)
 
-[Tài liệu lệnh của Sukon - Vietnamese Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/sukon-5.5.0-beta/command-document-vi.md)
-
-### BETTER FEATURE (document update - soon)
-
-- **All feature**
-  [English Version]() |
-  [Vietnamese Version]()
-- **Better feature document**
-  [English Version]() |
-  [Vietnamese Version]()
+[Tài liệu lệnh của Sukon - Vietnamese Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/sukon-6.4.0-Update-Patch/command-document-vi.md)
 
 ### UPDATE SUKON
 
-✅ `Sukon` **`Pre-stable version 6.3.2`**
+✅ `Sukon` **`Pre release version 6.4.0`**
 
 - What new in this version? (Có gì mới?)
 
-| Changes ( Các thay đổi) | Description of changes (Mô tả thay đổi)                                                                                                                                                      | Status (Trạng thái) |
+| Changes ( Các thay đổi) | Description of changes (Mô tả thay đổi)    | Status (Trạng thái) |
 | :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ |
-| `Update`                | Sukon run both Sqlite and MongoDB Database                                                                                                                                                   | `Ready`             |
-| `Fixed`                 | Load command underfined                                                                                                                                                                      | `Ready`             |
-| `Feature`               | "fast add" feature, add 200 song to queue in 5 sec (⚠ Non-youtube songs will be pushed to play first)                                                                                        | `Ready`             |
-| `Feature/load`          | Add "manual", Sukon does not use "fast add" but adds it manually, enabling sequential playback for the playlist.                                                                             | `Ready`             |
-| `Update`                | Update backup command                                                                                                                                                                        | `Ready`             |
-| `Optimization`          | Optimization storage                                                                                                                                                                         | `Ready`             |
-| `ReConfig`              | Change redis home server to redis server                                                                                                                                                     | `Ready`             |
-| `Limit`                 | Song limit in playlist - 180 up to 200 songs                                                                                                                                                 | `Ready`             |
-| `Fixed`                 | Fixed AutoChat regex spam                                                                                                                                                                    | `Ready`             |
-| `Change`                | The "stop" command will no longer disconnect Sukon, instead if everyone is not in voice then sukon will automatically exit                                                                   | `Ready`             |
-| `Add`                   | Add "Still fast track" in "play" command, You can add multiple songs at the same time by typing one song out and then going down the line to type another song (type ":add" in input option) | `Ready`             |
-| `Fixed`                 | Fixed Sukon UBS -> Change JSON to Map                                                                                                                                                                    | `Ready`             |
+| `Fixed`     | Filter Echo error | `Ready`  |
+| `Fixed`      | Fixed Queue manager force disconnect and get spam playing embed        | `Ready`  |
+| `Fixed`    | If loop system is turn on, there no way to destroy it after player has been destroyed | `Ready`  |
+| `Fixed`          | Lyric fixed display| `Ready`  |
+| `Fixed`     | Queue UI| `Ready`  |
+| `Fixed`          | Afk text err | `Ready`  |
+| `Fixed`   | Say: Webhook error, Interaction has already been acknowledged   | `Ready`  |
+| `Fixed`      | Autosend - regex check error  | `Ready`  |
+| `Fixed`      | Nuke - Button interaction error       | `Ready`  |
+| `Fixed`      | Count - Database error       | `Ready`  |
+| `Fixed`      | Server avatar null      | `Ready`  |
+| `Fixed`     | NPMjs doesn't reply if package is not found | `Ready` |
+| `Fixed`     | Ping - the ping is lie | `Ready` |
+| `Fixed`     | Skip - interaction error | `Ready` |
+| `Fixed`     | Some grammar and languages | `Ready` |
+| `Upgrade`     | Change milisec to format hh:mm:ss in mute command, example: 1m = 1 min / 1h = 1 hours | `Ready` |
+| `Upgrade`     | AFK: add new afk to sub command (global / guild) | `Ready` |
+| `Upgrade`     | Loop mode, Volume sync to music control panel | `Ready` |
+| `Upgrade`     | Web-screenshot: Use puppeteer and redis to capture a web site | `Ready` |
+| `Remake UI`     | Help, Ban, Mute, Unban, Youtube Notification,   | `Ready` |
+| `Change`     | Change issue command to bug-report command | `Ready` |
 
 **Small updates will be updated on [Nam Database's server](https://discord.gg/4avukvUBFM)**
