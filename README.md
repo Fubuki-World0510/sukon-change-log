@@ -12,32 +12,24 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 
 ### UPDATE SUKON
 
-✅ `Sukon` **`Pre release version 6.4.0`**
+✅ `Sukon` **`Pre release version 6.5.0`**
 
 - What new in this version? (Có gì mới?)
 
 | Changes ( Các thay đổi) | Description of changes (Mô tả thay đổi)    | Status (Trạng thái) |
 | :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ |
-| `Fixed`     | Filter Echo error | `Ready`  |
-| `Fixed`      | Fixed Queue manager force disconnect and get spam playing embed        | `Ready`  |
-| `Fixed`    | If loop system is turn on, there no way to destroy it after player has been destroyed | `Ready`  |
-| `Fixed`          | Lyric fixed display| `Ready`  |
-| `Fixed`     | Queue UI| `Ready`  |
-| `Fixed`          | Afk text err | `Ready`  |
-| `Fixed`   | Say: Webhook error, Interaction has already been acknowledged   | `Ready`  |
-| `Fixed`      | Autosend - regex check error  | `Ready`  |
-| `Fixed`      | Nuke - Button interaction error       | `Ready`  |
-| `Fixed`      | Count - Database error       | `Ready`  |
-| `Fixed`      | Server avatar null      | `Ready`  |
-| `Fixed`     | NPMjs doesn't reply if package is not found | `Ready` |
-| `Fixed`     | Ping - the ping is lie | `Ready` |
-| `Fixed`     | Skip - interaction error | `Ready` |
-| `Fixed`     | Some grammar and languages | `Ready` |
-| `Upgrade`     | Change milisec to format hh:mm:ss in mute command, example: 1m = 1 min / 1h = 1 hours | `Ready` |
-| `Upgrade`     | AFK: add new afk to sub command (global / guild) | `Ready` |
-| `Upgrade`     | Loop mode, Volume sync to music control panel | `Ready` |
-| `Upgrade`     | Web-screenshot: Use puppeteer and redis to capture a web site | `Ready` |
-| `Remake UI`     | Help, Ban, Mute, Unban, Youtube Notification,   | `Ready` |
-| `Change`     | Change issue command to bug-report command | `Ready` |
+| `Fixed`     | All command: `say`, `websc`,`issue`, `jtc`, `load`, `info`, `list`, `savequeue`, `autoplay`, `clearqueue`, `lyric`, `nowplaying`, `pause`, `queue`, `remove`, `resume`, `seek`, `stop`, `afk`, `avatar`, `help`, `invite`, `npmjs`, `wiki`, `yt-channel`, `backup` | `Ready`  |
+| `Remake UI`     | All command: `info`, `savequeue`,`pause`, `queue`, `remove`, `resume`, `seek`, `grab`, `ban` | `Ready`  |
+| `Feature change`     | `NpmJS` integration CLI | `Ready`  |
+| `Feature change`     | `youtube-notify` integration Google API | `Ready`  |
+| `Feature change`     | `play` Support Youtube URL | `Ready`  |
+| `Feature change`     | `jtc/voice` Beta version, not for verified Discord servers | `Beta`  |
+| `Feature change`     | `Lyric` Add 2 providers: musixmatch and youtube | `Ready`  |
+| `Feature change`     | `Avatar` Remove default avatar, add avatar url format | `Ready`  |
+| `Feature change`     | `savequeue` add Provider playlist to Sukon playlist without creating Sukon VIA | `Ready`  |
+| `Add`     | Anti MarkDown spam, input limit | `Ready`  |
+| `Add`     | The error will be displayed in ephemeral form | `Ready`  |
+| `Add`     | Increase cooldown time | `Ready`  |
+
 
 **Small updates will be updated on [Nam Database's server](https://discord.gg/4avukvUBFM)**
