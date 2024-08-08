@@ -33,3 +33,5 @@ SUKON CHANGE LOG - UPDATE - GUIDE
 
 
 **Small updates will be updated on [Nam Database's server](https://discord.gg/4avukvUBFM)**
+
+**Invite Sukon**: [Click to invite](https://discordapp.com/oauth2/authorize?client_id=961251733974188162)
