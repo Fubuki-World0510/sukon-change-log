@@ -1,37 +1,41 @@
-# Sukon Documents and Update
+# Website
 
-SUKON CHANGE LOG - UPDATE - GUIDE
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-### COMMAND DOCUMENTS
+### Installation
 
-[Know Sukon](https://namab.click/#about)
+```
+$ yarn
+```
 
-[Sukon Command Documents - English Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/sukon-6.4.0-Update-Patch/command-document-en.md)
+### Local Development
 
-[Tài liệu lệnh của Sukon - Vietnamese Version](https://github.com/Fubuki-World0510/sukon-change-log/blob/sukon-6.4.0-Update-Patch/command-document-vi.md)
+```
+$ yarn start
+```
 
-### UPDATE SUKON
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-✅ `Sukon` **`Pre release version 6.5.0`**
+### Build
 
-- What new in this version? (Có gì mới?)
+```
+$ yarn build
+```
 
-| Changes ( Các thay đổi) | Description of changes (Mô tả thay đổi)    | Status (Trạng thái) |
-| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ |
-| `Fixed`     | All command: `say`, `websc`,`issue`, `jtc`, `load`, `info`, `list`, `savequeue`, `autoplay`, `clearqueue`, `lyric`, `nowplaying`, `pause`, `queue`, `remove`, `resume`, `seek`, `stop`, `afk`, `avatar`, `help`, `invite`, `npmjs`, `wiki`, `yt-channel`, `backup` | `Ready`  |
-| `Remake UI`     | All command: `info`, `savequeue`,`pause`, `queue`, `remove`, `resume`, `seek`, `grab`, `ban` | `Ready`  |
-| `Feature change`     | `NpmJS` integration CLI | `Ready`  |
-| `Feature change`     | `youtube-notify` integration Google API | `Ready`  |
-| `Feature change`     | `play` Support Youtube URL | `Ready`  |
-| `Feature change`     | `jtc/voice` Beta version, not for verified Discord servers | `Beta`  |
-| `Feature change`     | `Lyric` Add 2 providers: musixmatch and youtube | `Ready`  |
-| `Feature change`     | `Avatar` Remove default avatar, add avatar url format | `Ready`  |
-| `Feature change`     | `savequeue` add Provider playlist to Sukon playlist without creating Sukon VIA | `Ready`  |
-| `Add`     | Anti MarkDown spam, input limit | `Ready`  |
-| `Add`     | The error will be displayed in ephemeral form | `Ready`  |
-| `Add`     | Increase cooldown time | `Ready`  |
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+### Deployment
 
-**Small updates will be updated on [Nam Database's server](https://discord.gg/4avukvUBFM)**
+Using SSH:
 
-**Invite Sukon**: [Click to invite](https://discordapp.com/oauth2/authorize?client_id=961251733974188162)
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
